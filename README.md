@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 🕵️ OSINT Framework
 
 Инструмент для поиска информации в открытых источниках.
